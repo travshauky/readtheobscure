@@ -7,7 +7,7 @@ authors:
 ---
 # Color Theory for Poets
 
-I dont care about idiots anymore. I have plenty of them here 
+I dont care about idiots anymore. I have plenty of them here. I sometimes take extreme pleasure in knowing idiots and loving them. Being an idiot myself.
 
 ![[photo1.jpg|350]]
 
