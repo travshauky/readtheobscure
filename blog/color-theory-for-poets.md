@@ -7,7 +7,7 @@ authors:
 ---
 # Color Theory for Poets
 
-I spent a semester in art school before dropping out to study literature. That semester gave me something no writing workshop ever did: a vocabulary for talking about contrast, temperature, and saturation — words that apply to poems as naturally as they apply to paintings.
+I dont care about idiots anymore. I have plenty of them here 
 
 ![[photo1.jpg|350]]
 
