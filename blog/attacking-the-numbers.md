@@ -5,7 +5,7 @@ tags:
 description: Exploring critical thinking in the construct of math learning
 date: 2026-06-28
 authors:
-  - shaukath
+  - "[[shaukath-mohamed]]"
 ---
 
 "Accountants are dead inside," I declared quietly for the second time. I had never taken the course wanting to be an accountant, nor did I ever plan to. But while accounting felt mechanical, mathematics classes held my interest—specifically, the friction point where human cognition meets technological execution.
